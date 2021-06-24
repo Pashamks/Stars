@@ -1,0 +1,10 @@
+C:\Users\38095\Desktop\прога\Stars\Stars\bin\Debug\Stars.exe.config
+C:\Users\38095\Desktop\прога\Stars\Stars\bin\Debug\Stars.exe
+C:\Users\38095\Desktop\прога\Stars\Stars\bin\Debug\Stars.pdb
+C:\Users\38095\Desktop\прога\Stars\Stars\obj\Debug\Stars.csprojAssemblyReference.cache
+C:\Users\38095\Desktop\прога\Stars\Stars\obj\Debug\Stars.Form1.resources
+C:\Users\38095\Desktop\прога\Stars\Stars\obj\Debug\Stars.Properties.Resources.resources
+C:\Users\38095\Desktop\прога\Stars\Stars\obj\Debug\Stars.csproj.GenerateResource.cache
+C:\Users\38095\Desktop\прога\Stars\Stars\obj\Debug\Stars.csproj.CoreCompileInputs.cache
+C:\Users\38095\Desktop\прога\Stars\Stars\obj\Debug\Stars.exe
+C:\Users\38095\Desktop\прога\Stars\Stars\obj\Debug\Stars.pdb
